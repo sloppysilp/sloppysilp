@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there
+
+I am Silp, a teenager fuguring out life.
+
+### What i am working on?
+
+Python automation and shit
+School
+More school
+I hate my life
 
 <!--
 **sloppysilp/sloppysilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
