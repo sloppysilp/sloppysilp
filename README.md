@@ -5,8 +5,11 @@ I am Silp, a teenager fuguring out life.
 ### What i am working on?
 
 Python automation and shit
+
 School
+
 More school
+
 I hate my life
 
 <!--
