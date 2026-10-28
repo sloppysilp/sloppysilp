@@ -11,3 +11,6 @@ School
 More school
 
 I hate my life
+
+I hate my stupid baka life
+-Franz Kafka
